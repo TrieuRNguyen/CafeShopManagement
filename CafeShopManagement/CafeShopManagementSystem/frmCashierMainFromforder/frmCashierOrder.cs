@@ -384,7 +384,6 @@ namespace CafeShopManagementSystem.frmCashierMainFromforder
 
         private void cashierOrderForm_removeBtn_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Order ID: " + getOrderID1); // Thêm dòng này kiểm tra
 
             if (getOrderID1 == 0)
             {
@@ -561,7 +560,6 @@ namespace CafeShopManagementSystem.frmCashierMainFromforder
                 if (row.Cells[0].Value != null)
                 {
                     getOrderID1 = Convert.ToInt32(row.Cells[0].Value);
-                    MessageBox.Show("Selected ID: " + getOrderID1);
                 }
             }
 

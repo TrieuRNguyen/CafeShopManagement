@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|c:\\users\\t\\desktop\\cafeshopmanagement\\cafeshopmanagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|c:\\users\\t\\desktop\\cafeshopmanagement\\cafeshopmanagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -126,17 +126,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frmCashierOrder.cs",
               "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
               "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
-              "ViewState": "AgIAACMCAAAAAAAAAAAswDMCAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAYwDMCAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T03:54:07.917Z",
               "EditorCaption": ""
@@ -151,8 +151,7 @@
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\CashierOrdersData.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:01:55.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T01:01:55.658Z"
             },
             {
               "$type": "Document",
@@ -163,12 +162,11 @@
               "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.cs [Design]",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T03:03:22.851Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-12T03:03:22.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmCashierOrder.cs [Design]",
               "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
@@ -199,8 +197,7 @@
               "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.cs [Design]",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:16:01.622Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-11T23:16:01.622Z"
             },
             {
               "$type": "Document",
@@ -303,8 +300,7 @@
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAowBkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:55:58.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T23:55:58.612Z"
             },
             {
               "$type": "Document",
@@ -407,8 +403,7 @@
               "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.resx",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-05-12T03:54:08.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T03:54:08.043Z"
             },
             {
               "$type": "Document",
@@ -420,8 +415,7 @@
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.Designer.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T03:54:07.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T03:54:07.977Z"
             },
             {
               "$type": "Document",
@@ -432,8 +426,7 @@
               "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.resx",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-05-12T03:54:07.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T03:54:07.892Z"
             },
             {
               "$type": "Document",
@@ -445,8 +438,7 @@
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.Designer.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T03:54:07.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T03:54:07.794Z"
             },
             {
               "$type": "Document",
