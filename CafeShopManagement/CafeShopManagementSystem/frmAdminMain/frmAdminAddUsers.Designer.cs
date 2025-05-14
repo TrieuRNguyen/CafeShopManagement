@@ -167,7 +167,6 @@
             // 
             // adminAddUsers_status
             // 
-            this.adminAddUsers_status.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.adminAddUsers_status.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.adminAddUsers_status.FormattingEnabled = true;
             this.adminAddUsers_status.Items.AddRange(new object[] {
@@ -181,7 +180,6 @@
             // 
             // adminAddUsers_role
             // 
-            this.adminAddUsers_role.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.adminAddUsers_role.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.adminAddUsers_role.FormattingEnabled = true;
             this.adminAddUsers_role.Items.AddRange(new object[] {

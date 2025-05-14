@@ -26,6 +26,8 @@ namespace CafeShopManagementSystem.frmCashierMainFromforder
             displayAllOrders();
 
             displayTotalPrice();
+            cashierOrderForm_orderTable.CellClick += cashierOrderForm_orderTable_CellClick_1;
+
         }
 
         public void refreshData()
@@ -102,7 +104,7 @@ namespace CafeShopManagementSystem.frmCashierMainFromforder
             {
                 try
                 {
-                    using (SqlConnection connect = new SqlConnection("Data Source=.;Initial Catalog=master;Integrated Security=True"))
+                    using (SqlConnection connect = new SqlConnection("Data Source=.;Initial Catalog=CafeShopDB;Integrated Security=True;Encrypt=False"))
                     {
                         connect.Open();
                         string selectData = $"SELECT * FROM products WHERE prod_id = '{selectedValue}' AND prod_status = @status AND date_delete IS NULL";
@@ -135,11 +137,10 @@ namespace CafeShopManagementSystem.frmCashierMainFromforder
         }
 
         private int idGen = 0;
-        private int getOrderID = 0;
 
         public void IDGenerator()
         {
-            using (SqlConnection connect = new SqlConnection("Data Source=.;Initial Catalog=master;Integrated Security=True"))
+            using (SqlConnection connect = new SqlConnection("Data Source=.;Initial Catalog=CafeShopDB;Integrated Security=True;Encrypt=False"))
             {
                 connect.Open();
                 string selectID = "SELECT MAX(customer_id) FROM customers";
@@ -383,13 +384,15 @@ namespace CafeShopManagementSystem.frmCashierMainFromforder
 
         private void cashierOrderForm_removeBtn_Click(object sender, EventArgs e)
         {
-            if (getOrderID == 0)
+            MessageBox.Show("Order ID: " + getOrderID1); // Thêm dòng này kiểm tra
+
+            if (getOrderID1 == 0)
             {
                 MessageBox.Show("Select item first", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
-                if (MessageBox.Show("Are you sure you want to Remove the Order ID: " + getOrderID + "?", "Confirmation Message"
+                if (MessageBox.Show("Are you sure you want to Remove the Order ID: " + getOrderID1 + "?", "Confirmation Message"
                 , MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
                     if (connect.State == ConnectionState.Closed)
@@ -402,7 +405,7 @@ namespace CafeShopManagementSystem.frmCashierMainFromforder
 
                             using (SqlCommand cmd = new SqlCommand(deleteData, connect))
                             {
-                                cmd.Parameters.AddWithValue("@id", getOrderID);
+                                cmd.Parameters.AddWithValue("@id", getOrderID1);
 
                                 cmd.ExecuteNonQuery();
 
@@ -528,6 +531,40 @@ namespace CafeShopManagementSystem.frmCashierMainFromforder
             string labelText = today.ToString();
             y = e.MarginBounds.Bottom - labelMargin - labelFont.GetHeight(e.Graphics);
             e.Graphics.DrawString(labelText, labelFont, Brushes.Black, e.MarginBounds.Right - e.Graphics.MeasureString("------------------------------", labelFont).Width, y);
+        }
+        public void clearFields()
+        {
+            lb_ProductsName.Text = "";
+            lb_Price.Text = "";
+            cashierOrderForm_type.SelectedIndex = -1;
+            cashierOrderForm_productID.SelectedIndex = -1;
+            cashierOrderForm_quantity.Value = 0;
+        }
+        private void cashierOrderForm_clearBtn_Click(object sender, EventArgs e)
+        {
+            displayAllOrders();
+            displayTotalPrice();
+            clearFields();
+        }
+
+        private int getOrderID1 = 0;
+
+       
+
+        private void cashierOrderForm_orderTable_CellClick_1(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex >= 0 && e.ColumnIndex >= 0)
+            {
+                DataGridView dgv = sender as DataGridView;
+                DataGridViewRow row = dgv.Rows[e.RowIndex];
+
+                if (row.Cells[0].Value != null)
+                {
+                    getOrderID1 = Convert.ToInt32(row.Cells[0].Value);
+                    MessageBox.Show("Selected ID: " + getOrderID1);
+                }
+            }
+
         }
     }
 }

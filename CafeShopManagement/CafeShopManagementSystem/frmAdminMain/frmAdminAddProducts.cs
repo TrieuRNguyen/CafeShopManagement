@@ -102,7 +102,15 @@ namespace CafeShopManagementSystem.frmAdminMain
                                     Directory.CreateDirectory(directoryPath);
                                 }
 
-                                File.Copy(adminAddProducts_imageView.ImageLocation, path, true);
+                                if (!string.IsNullOrEmpty(adminAddProducts_imageView.ImageLocation))
+                                {
+                                    File.Copy(adminAddProducts_imageView.ImageLocation, path, true);
+                                }
+                                else
+                                {
+                                    path = ""; // hoặc giá trị mặc định
+                                }
+
 
                                 using (SqlCommand cmd = new SqlCommand(insertData, connect))
                                 {

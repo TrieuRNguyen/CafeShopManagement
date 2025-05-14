@@ -1,19 +1,22 @@
-﻿
+﻿-- Ngắt kết nối và xóa CSDL nếu tồn tại
+USE master;
+GO
+
+IF EXISTS (SELECT name FROM sys.databases WHERE name = 'CafeShopDB')
+BEGIN
+    ALTER DATABASE CafeShopDB SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+    DROP DATABASE CafeShopDB;
+END
+GO
+
+-- Tạo lại database
 CREATE DATABASE CafeShopDB;
 GO
 
 USE CafeShopDB;
 GO
 
-
--- Xóa bảng nếu đã tồn tại (tránh lỗi khi chạy lại)
-IF OBJECT_ID('dbo.customers', 'U') IS NOT NULL DROP TABLE dbo.customers;
-IF OBJECT_ID('dbo.orders', 'U') IS NOT NULL DROP TABLE dbo.orders;
-IF OBJECT_ID('dbo.products', 'U') IS NOT NULL DROP TABLE dbo.products;
-IF OBJECT_ID('dbo.users', 'U') IS NOT NULL DROP TABLE dbo.users;
-GO
-
--- Bảng users
+-- Tạo bảng users
 CREATE TABLE users (
     id INT PRIMARY KEY IDENTITY(1,1),
     username VARCHAR(100) NULL,
@@ -24,17 +27,16 @@ CREATE TABLE users (
     date_reg DATE NULL
 );
 
--- Dữ liệu mặc định
+-- Thêm dữ liệu users
 INSERT INTO users (username, password, profile_image, role, status, date_reg)
-VALUES ('admin', 'admin123', 'admin.png', 'Admin', 'Active', '2025-05-11'),
+VALUES 
+('admin', 'admin123', 'admin.png', 'Admin', 'Active', '2025-05-11'),
 ('john_doe', '123456', 'john.png', 'Cashier', 'Active', '2025-05-01'),
 ('jane_smith', 'password', 'jane.jpg', 'Cashier', 'Inactive', '2025-04-28'),
 ('employee1', 'emp123', 'emp1.png', 'Cashier', 'Active', '2025-05-05'),
 ('test', '123123123', 'emp1.png', 'Cashier', 'Active', '2025-05-05');
 
-
-
--- Bảng products
+-- Tạo bảng products
 CREATE TABLE products (
     id INT PRIMARY KEY IDENTITY(1,1),
     prod_id VARCHAR(50) NULL,
@@ -49,7 +51,7 @@ CREATE TABLE products (
     date_delete DATE NULL
 );
 
--- Bảng orders
+-- Tạo bảng orders
 CREATE TABLE orders (
     id INT PRIMARY KEY IDENTITY(1,1),
     customer_id INT NULL,
@@ -62,7 +64,7 @@ CREATE TABLE orders (
     qty INT NULL
 );
 
--- Bảng customers
+-- Tạo bảng customers
 CREATE TABLE customers (
     id INT PRIMARY KEY IDENTITY(1,1),
     customer_id INT NULL,
@@ -72,9 +74,4 @@ CREATE TABLE customers (
     change FLOAT NULL,
     users VARCHAR(MAX) NULL
 );
-GO
-
-
-
-
-
+Go

@@ -10,7 +10,6 @@ namespace CafeShopManagementSystem.frmAdminMain
 {
     class AdminAddProductsData
     {
-        public string LoggedInUsername { get; set; }
         public int ID { set; get; } // 0
         public string ProductID { set; get; } // 1
         public string ProductName { set; get; } // 2
