@@ -215,10 +215,11 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Image = global::CafeShopManagementSystem.Properties.Resources.download;
+            this.pictureBox5.Image = global::CafeShopManagementSystem.Properties.Resources.cafeshop;
             this.pictureBox5.Location = new System.Drawing.Point(20, 24);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(1180, 388);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox5.TabIndex = 0;
             this.pictureBox5.TabStop = false;
             // 

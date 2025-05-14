@@ -1,121 +1,121 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmadminmain\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|c:\\users\\t\\desktop\\cafeshopmanagement\\cafeshopmanagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmadminmain\\frmadminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmadminmain\\frmadminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmadminmain\\frmadminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|d:\\cafeshopmanagement\\cafeshopmanagement\\cafeshopmanagement\\cafeshopmanagement\\cafeshopmanagement\\cafeshopmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmadminmain\\frmadminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\adminaddusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\adminaddusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmadminmain\\adminaddusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\adminaddproductsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\adminaddproductsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmadminmain\\adminaddproductsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\cashierordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\cashierordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\cashierordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmadminmain\\frmadminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\cashierorderfromproddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\cashierorderfromproddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\cashierorderfromproddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmadminmain\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmadminmain\\frmadminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmadminmain\\frmadminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashierorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiermain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiermain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiermain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiermain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiermain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiermain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19C26E2-E044-49DE-BCC2-E928583F80B3}|CafeShopManagementSystem\\CafeShopManagementSystem.csproj|solutionrelative:cafeshopmanagementsystem\\frmcashiermainfromforder\\frmcashiercustomers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -126,39 +126,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "frmAdminDashboard.cs [Design]",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminDashboard.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmAdminMain\\frmAdminDashboard.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminDashboard.cs [Design]",
-              "RelativeToolTip": "CafeShopManagementSystem\\frmAdminMain\\frmAdminDashboard.cs [Design]",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminDashboard.cs [Design]*",
+              "RelativeToolTip": "CafeShopManagementSystem\\frmAdminMain\\frmAdminDashboard.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T03:25:34.292Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmCashierCustomers.cs [Design]",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.cs",
               "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.cs [Design]",
-              "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T03:03:22.851Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-12T03:03:22.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmCashierOrder.cs [Design]",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs [Design]",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs [Design]",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T23:40:47.156Z",
@@ -168,133 +166,117 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "frmAdminAddUsers.cs [Design]",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddUsers.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddUsers.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmAdminMain\\frmAdminAddUsers.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddUsers.cs [Design]*",
-              "RelativeToolTip": "CafeShopManagementSystem\\frmAdminMain\\frmAdminAddUsers.cs [Design]*",
+              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddUsers.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T11:39:04.4Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-14T11:39:04.4Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "frmAdminAddProducts.cs [Design]",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddProducts.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddProducts.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmAdminMain\\frmAdminAddProducts.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddProducts.cs [Design]*",
-              "RelativeToolTip": "CafeShopManagementSystem\\frmAdminMain\\frmAdminAddProducts.cs [Design]*",
+              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddProducts.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T04:00:22.23Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-12T04:00:22.23Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "frmAdminMain.cs [Design]",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminMain.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminMain.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmAdminMain\\frmAdminMain.cs",
               "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminMain.cs [Design]",
-              "RelativeToolTip": "CafeShopManagementSystem\\frmAdminMain\\frmAdminMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T03:43:00.557Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-12T03:43:00.557Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "frmRegister.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmRegister.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmRegister.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmRegister.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmRegister.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmRegister.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\frmRegister.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T11:37:23.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T11:37:23.675Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "frmCashierMain.cs [Design]",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.cs",
               "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.cs [Design]",
-              "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:16:01.622Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-11T23:16:01.622Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "frmCashierMain.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAowBkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:55:58.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T23:55:58.612Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Login.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\Login.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\Login.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\Login.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\Login.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\Login.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAmwFYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T11:31:37.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T11:31:37.614Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "frmRegister.cs [Design]",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmRegister.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmRegister.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmRegister.cs",
               "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmRegister.cs [Design]",
-              "RelativeToolTip": "CafeShopManagementSystem\\frmRegister.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T11:37:22.271Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-14T11:37:22.271Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\Login.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\Login.cs",
               "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\Login.cs [Design]",
-              "RelativeToolTip": "CafeShopManagementSystem\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T11:31:35.851Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-14T11:31:35.851Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "frmAdminMain.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminMain.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminMain.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmAdminMain\\frmAdminMain.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminMain.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminMain.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\frmAdminMain\\frmAdminMain.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T03:20:24.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T03:20:24.513Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "AdminAddUsersData.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\AdminAddUsersData.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\AdminAddUsersData.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmAdminMain\\AdminAddUsersData.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\AdminAddUsersData.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\AdminAddUsersData.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\frmAdminMain\\AdminAddUsersData.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAACCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,9 +286,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "AdminAddProductsData.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\AdminAddProductsData.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\AdminAddProductsData.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmAdminMain\\AdminAddProductsData.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\AdminAddProductsData.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\AdminAddProductsData.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\frmAdminMain\\AdminAddProductsData.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -316,9 +298,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "CashierOrdersData.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\CashierOrdersData.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\CashierOrdersData.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\CashierOrdersData.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\CashierOrdersData.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\CashierOrdersData.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\CashierOrdersData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -328,48 +310,45 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "frmAdminAddProducts.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddProducts.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddProducts.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmAdminMain\\frmAdminAddProducts.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddProducts.cs*",
-              "RelativeToolTip": "CafeShopManagementSystem\\frmAdminMain\\frmAdminAddProducts.cs*",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddProducts.cs",
+              "RelativeToolTip": "CafeShopManagementSystem\\frmAdminMain\\frmAdminAddProducts.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAADgv0MAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T03:58:04.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T03:58:04.144Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "frmCashierOrder.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T03:54:07.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T03:54:07.917Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "frmCashierCustomers.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T03:07:24.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T03:07:24.198Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "CustomersData.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\CustomersData.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\CustomersData.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\CustomersData.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\CustomersData.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\CustomersData.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\CustomersData.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAQwBEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -379,9 +358,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "CashierOrderFromProdData.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\CashierOrderFromProdData.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\CashierOrderFromProdData.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\CashierOrderFromProdData.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\CashierOrderFromProdData.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\CashierOrderFromProdData.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\CashierOrderFromProdData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAACCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -391,10 +370,10 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "frmAdminDashboard.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminDashboard.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmAdminMain\\frmAdminDashboard.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminDashboard.cs",
-              "RelativeToolTip": "CafeShopManagementSystem\\frmAdminMain\\frmAdminDashboard.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminDashboard.cs*",
+              "RelativeToolTip": "CafeShopManagementSystem\\frmAdminMain\\frmAdminDashboard.cs*",
               "ViewState": "AgIAAAcAAAAAAAAAAAAswBIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T03:26:03.264Z",
@@ -404,22 +383,21 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "frmAdminAddUsers.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddUsers.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddUsers.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmAdminMain\\frmAdminAddUsers.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddUsers.cs*",
-              "RelativeToolTip": "CafeShopManagementSystem\\frmAdminMain\\frmAdminAddUsers.cs*",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmAdminMain\\frmAdminAddUsers.cs",
+              "RelativeToolTip": "CafeShopManagementSystem\\frmAdminMain\\frmAdminAddUsers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T02:41:54.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T02:41:54.728Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "frmCashierOrder.resx",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.resx",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.resx",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.resx",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.resx",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.resx",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-05-12T03:54:08.043Z",
@@ -429,9 +407,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "frmCashierOrder.Designer.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.Designer.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.Designer.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.Designer.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.Designer.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierOrder.Designer.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -442,51 +420,47 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "frmCashierMain.resx",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.resx",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.resx",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.resx",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.resx",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.resx",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-05-12T03:54:07.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T03:54:07.892Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "frmCashierMain.Designer.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.Designer.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.Designer.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.Designer.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.Designer.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.Designer.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T03:54:07.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T03:54:07.794Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "frmCashierCustomers.resx",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.resx",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.resx",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.resx",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.resx",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.resx",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-05-12T03:54:07.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T03:54:07.738Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "frmCashierCustomers.Designer.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.Designer.cs",
               "RelativeDocumentMoniker": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.Designer.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.Designer.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.Designer.cs",
               "RelativeToolTip": "CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierCustomers.Designer.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T03:54:07.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T03:54:07.606Z"
             }
           ]
         }
