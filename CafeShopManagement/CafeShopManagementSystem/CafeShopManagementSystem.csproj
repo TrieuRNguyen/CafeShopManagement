@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F19C26E2-E044-49DE-BCC2-E928583F80B3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CafeShopManagementSystem</RootNamespace>
+    <AssemblyName>CafeShopManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAdminMain\AdminAddProductsData.cs" />
+    <Compile Include="frmAdminMain\AdminAddUsersData.cs" />
+    <Compile Include="frmAdminMain\frmAdminAddProducts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmAdminMain\frmAdminAddProducts.Designer.cs">
+      <DependentUpon>frmAdminAddProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminMain\frmAdminAddUsers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmAdminMain\frmAdminAddUsers.Designer.cs">
+      <DependentUpon>frmAdminAddUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminMain\frmAdminDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmAdminMain\frmAdminDashboard.Designer.cs">
+      <DependentUpon>frmAdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminMain\frmAdminMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminMain\frmAdminMain.Designer.cs">
+      <DependentUpon>frmAdminMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCashierMainFromforder\CashierOrderFromProdData.cs" />
+    <Compile Include="frmCashierMainFromforder\CashierOrdersData.cs" />
+    <Compile Include="frmCashierMainFromforder\CustomersData.cs" />
+    <Compile Include="frmCashierMainFromforder\frmCashierCustomers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmCashierMainFromforder\frmCashierCustomers.Designer.cs">
+      <DependentUpon>frmCashierCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCashierMainFromforder\frmCashierMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCashierMainFromforder\frmCashierMain.Designer.cs">
+      <DependentUpon>frmCashierMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCashierMainFromforder\frmCashierOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmCashierMainFromforder\frmCashierOrder.Designer.cs">
+      <DependentUpon>frmCashierOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegister.Designer.cs">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAdminMain\frmAdminAddProducts.resx">
+      <DependentUpon>frmAdminAddProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminMain\frmAdminAddUsers.resx">
+      <DependentUpon>frmAdminAddUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminMain\frmAdminDashboard.resx">
+      <DependentUpon>frmAdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminMain\frmAdminMain.resx">
+      <DependentUpon>frmAdminMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCashierMainFromforder\frmCashierCustomers.resx">
+      <DependentUpon>frmCashierCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCashierMainFromforder\frmCashierMain.resx">
+      <DependentUpon>frmCashierMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCashierMainFromforder\frmCashierOrder.resx">
+      <DependentUpon>frmCashierOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegister.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Cafe_100px_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_user_filled_90px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_group_90px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_money_90px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Money_Bag_Bitcoin_90px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Product_Directory\" />
+    <Folder Include="Use_Directory\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
