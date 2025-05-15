@@ -1,1 +1,11 @@
-{"ShowEmptyProjects":false,"CustomColumnOrderings":{},"ShowValidationErrors":true,"SelectedResourceGroupsByProjectFilePath":{"C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\CafeShopManagementSystem.csproj":["C:\\Users\\T\\Desktop\\CafeShopManagement\\CafeShopManagement\\CafeShopManagementSystem\\frmCashierMainFromforder\\frmCashierMain.resx"]},"VisibleColumnKeys":["name","neutral-value"]}
+{
+  "ShowEmptyProjects": false,
+  "SelectedGroups": [],
+  "ExpandedProjects": [],
+  "EnableSpellChecker": true,
+  "ColumnOrder": [],
+  "VisibleColumnKeys": [
+    "name",
+    "neutral-value"
+  ]
+}

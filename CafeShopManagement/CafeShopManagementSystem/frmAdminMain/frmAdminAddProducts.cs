@@ -132,7 +132,7 @@ namespace CafeShopManagementSystem.frmAdminMain
                             }
                         }
                     }
-                    catch (Exception ex)
+                    catch (SqlException ex)
                     {
                         MessageBox.Show("Failed connection: " + ex, "Error Message"
                                     , MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -161,7 +161,7 @@ namespace CafeShopManagementSystem.frmAdminMain
                 }
 
             }
-            catch (Exception ex)
+            catch (SqlException ex)
             {
                 MessageBox.Show("Error: " + ex, "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
@@ -208,7 +208,7 @@ namespace CafeShopManagementSystem.frmAdminMain
                         adminAddProducts_imageView.Image = null;
                     }
                 }
-                catch (Exception ex)
+                catch (SqlException ex)
                 {
                     MessageBox.Show("Error Image: " + ex, "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
@@ -258,7 +258,7 @@ namespace CafeShopManagementSystem.frmAdminMain
 
                             }
                         }
-                        catch (Exception ex)
+                        catch (SqlException ex)
                         {
                             MessageBox.Show("Connection failed: " + ex, "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         }
